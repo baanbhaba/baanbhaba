@@ -1,13 +1,17 @@
 <div align="center">
 
-<!-- Ultra-Vibrant Rainbow Cyber Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,12,18&height=180&section=header&text=⚡%20BAANBHABA%20⚡&fontSize=52&fontColor=000000&animation=fadeIn&fontAlignY=45&desc=%5B%20BUILD%20FAST%20%5D%20%20%5B%20BREAK%20CONFIGS%20%5D%20%20%5B%20VIBE%20ONLY%20%5D&descFontSize=15&descAlignY=70&descAlign=50" width="100%" />
+```text
+  _                     _     _           _           
+ | |__   __ _  __ _ _ _| |__ | |__   __ _| |__   __ _ 
+ | '_ \ / _` |/ _` | '_ \ '_ \| '_ \ / _` | '_ \ / _` |
+ |_.__/ \__,_|\__,_|_| |_|_.__/|_.__/ \__,_|_.__/ \__,_|
+```
 
 <br/>
 
 <!-- Electric Acid Pink Typing Banner -->
 <a href="https://github.com/baanbhaba">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=19&duration=2000&pause=1000&color=000000&background=FF0055&center=true&vCenter=true&multiline=false&width=550&height=40&lines=+%E2%9A%A1+sometimes+the+code+actually+runs+;+%F0%9F%8E%AE+professional+respawn+screen+enjoyer+;+%F0%9F%94%A5+90%25+ricing+hyprland%2C+10%25+writing+bugs+;+%E2%9C%A8+pushing+straight+to+main+and+praying+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=2000&pause=1000&color=000000&background=FF0055&center=true&vCenter=true&multiline=false&width=550&height=38&lines=+%E2%9A%A1+sometimes+the+code+actually+runs+;+%F0%9F%8E%AE+professional+respawn+screen+enjoyer+;+%F0%9F%94%A5+90%25+ricing+hyprland%2C+10%25+writing+bugs+;+%E2%9C%A8+pushing+straight+to+main+and+praying+" alt="Typing SVG" />
 </a>
 
 <br/><br/>
