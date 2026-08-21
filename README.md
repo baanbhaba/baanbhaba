@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- RETRO AMBER CRT HEADER -->
-<img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_header.svg" width="100%" alt="Retro Amber Terminal Header" />
+<img src="assets/crt_header.svg" width="100%" alt="Retro Amber Terminal Header" />
 
 <br/>
 
@@ -12,52 +12,52 @@
 
 <br/><br/>
 
-<!-- FLAT MONOCHROME AMBER BADGES -->
+<!-- COLOR-CODED SHIELDS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/HYPRLAND-FFB000?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/NEOVIM-FFB000?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/STATUS-UNIDENTIFIED-FF8800?style=flat-square&labelColor=14100A&color=FF8800" />
+  <img src="https://img.shields.io/badge/HYPRLAND-00F5D4?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=00F5D4" />
+  <img src="https://img.shields.io/badge/NEOVIM-A89FF9?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=A89FF9" />
+  <img src="https://img.shields.io/badge/STATUS-UNIDENTIFIED-FF3366?style=flat-square&labelColor=14100A&color=FF3366" />
 </p>
 
 </div>
 
 ---
 
-### 🐍 GREEN PHOSPHOR ARCADE // CRT-SNAKE
+### 🌸 BIO-CYBERNETIC // SAKURA-CRT
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_game.svg" width="100%" alt="Green Phosphor CRT Snake Game" />
+  <img src="assets/crt_flower.svg" width="100%" alt="Sakura Blooming Flower" />
 </div>
 
 ---
 
-### 📺 SIGNAL & AMBIENCE
+### 📺 SIGNAL TELEMETRY // HUD
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_status.svg" width="100%" alt="Signal Telemetry" />
+  <img src="assets/crt_status.svg" width="100%" alt="Signal Telemetry" />
 </div>
 
 ---
 
-### 📼 DIRECTORY & CREATIONS
+### 📼 DIRECTORY // REPOSITORIES
 
 <div align="center">
   <a href="https://github.com/baanbhaba?tab=repositories">
-    <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_creations.svg" width="100%" alt="Creations Directory" />
+    <img src="assets/crt_creations.svg" width="100%" alt="Creations Directory" />
   </a>
 </div>
 
 ---
 
-### 🕹️ PROCESS MONITOR & DISTRACTIONS
+### 🕹️ PROCESS MONITOR // DISTRACTIONS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_distractions.svg" width="100%" alt="Process Monitor" />
+  <img src="assets/crt_distractions.svg" width="100%" alt="Process Monitor" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_footer.svg" width="100%" alt="End of Transmission" />
+  <img src="assets/crt_footer.svg" width="100%" alt="End of Transmission" />
 </div>

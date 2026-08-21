@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="100%" height="100%">
+  <defs>
+    <filter id="sakura-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes bloom {
+      0%   { transform: rotate(0deg) scale(0.75); opacity: 0.6; }
+      50%  { transform: rotate(180deg) scale(1.05); opacity: 1; }
+      100% { transform: rotate(360deg) scale(0.75); opacity: 0.6; }
+    }
+    @keyframes core-beat {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+    @keyframes floating-pollen {
+      0%   { transform: translate(0, 0); opacity: 0.3; }
+      50%  { transform: translate(8px, -12px); opacity: 0.9; }
+      100% { transform: translate(-6px, -24px); opacity: 0.1; }
+    }
+    .sakura { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace; fill: #FF6699; filter: url(#sakura-glow); }
+    .sakura-dim { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace; fill: #7A2845; }
+    .sakura-bright { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace; fill: #FFE6F0; filter: url(#sakura-glow); font-weight: bold; }
+    .bloom-rotor { transform-origin: 220px 115px; animation: bloom 10s infinite linear; }
+    .flower-core { transform-origin: 220px 115px; animation: core-beat 2.5s infinite ease-in-out; }
+    .pollen-1 { transform-origin: 190px 95px; animation: floating-pollen 3.5s infinite ease-in-out; }
+    .pollen-2 { transform-origin: 250px 125px; animation: floating-pollen 4.2s infinite ease-in-out 1s; }
+  </style>
+
+  <!-- Frame Plate -->
+  <rect x="2" y="2" width="876" height="236" rx="14" fill="#0D060A" stroke="#361524" stroke-width="2"/>
+
+  <!-- Top Title bar -->
+  <line x1="2" y1="36" x2="878" y2="36" stroke="#260E1A" stroke-width="1.5"/>
+  <text x="25" y="24" class="sakura-dim" font-size="11" letter-spacing="2">BIO-CYBERNETIC // SAKURA-CRT</text>
+  <text x="855" y="24" text-anchor="end" class="sakura" font-size="11">● STATE: BLOOMING</text>
+
+  <!-- Inner Playfield Canvas -->
+  <rect x="15" y="45" width="850" height="175" rx="8" fill="#070305" stroke="#210C16"/>
+  
+  <!-- Left Half: Blooming Flower Display -->
+  <circle cx="220" cy="115" r="52" fill="none" stroke="#521832" stroke-width="1" stroke-dasharray="3,3"/>
+  <circle cx="190" cy="95" r="2.5" fill="#FFAACC" class="pollen-1"/>
+  <circle cx="250" cy="125" r="2" fill="#FF88AA" class="pollen-2"/>
+
+  <!-- Rotating Petals Group -->
+  <g class="bloom-rotor">
+    <ellipse cx="220" cy="85" rx="11" ry="24" fill="#FF4D88" opacity="0.85"/>
+    <ellipse cx="220" cy="145" rx="11" ry="24" fill="#FF4D88" opacity="0.85"/>
+    <ellipse cx="190" cy="115" rx="24" ry="11" fill="#FF4D88" opacity="0.85"/>
+    <ellipse cx="250" cy="115" rx="24" ry="11" fill="#FF4D88" opacity="0.85"/>
+    <ellipse cx="200" cy="95" rx="10" ry="22" transform="rotate(45 200 95)" fill="#FF77AA" opacity="0.75"/>
+    <ellipse cx="240" cy="135" rx="10" ry="22" transform="rotate(45 240 135)" fill="#FF77AA" opacity="0.75"/>
+    <ellipse cx="240" cy="95" rx="10" ry="22" transform="rotate(-45 240 95)" fill="#FF77AA" opacity="0.75"/>
+    <ellipse cx="200" cy="135" rx="10" ry="22" transform="rotate(-45 200 135)" fill="#FF77AA" opacity="0.75"/>
+  </g>
+
+  <!-- Center Core -->
+  <g class="flower-core">
+    <circle cx="220" cy="115" r="12" fill="#FFE6F0"/>
+    <circle cx="220" cy="115" r="7" fill="#FF1A66"/>
+    <circle cx="220" cy="115" r="3" fill="#FFF"/>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="440" y1="55" x2="440" y2="210" stroke="#260E1A" stroke-width="1.5"/>
+
+  <!-- Right Half: Telemetry Readout Table -->
+  <g transform="translate(480, 72)" font-size="12" font-family="'JetBrains Mono', monospace">
+    <text x="0" y="20" class="sakura-dim">SYSTEM ID</text>
+    <text x="140" y="20" class="sakura-bright">SAKURA-08</text>
+
+    <text x="0" y="52" class="sakura-dim">PETALS</text>
+    <text x="140" y="52" class="sakura-bright">08 [SYNC]</text>
+
+    <text x="0" y="84" class="sakura-dim">GROWTH</text>
+    <text x="140" y="84" class="sakura-bright">99.4%</text>
+
+    <text x="0" y="116" class="sakura-dim">CYCLE</text>
+    <text x="140" y="116" class="sakura-bright">INFINITE</text>
+
+    <text x="0" y="146" class="sakura-dim">PHOSPHOR</text>
+    <text x="140" y="146" class="sakura">SAKURA PINK</text>
+  </g>
+</svg>
