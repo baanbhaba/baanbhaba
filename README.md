@@ -7,12 +7,12 @@
 
 <!-- AMBER GLOW TYPEWRITER -->
 <a href="https://github.com/baanbhaba">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2200&pause=1000&color=FFB000&background=0A0805&border=FFB00055&center=true&vCenter=true&multiline=false&width=560&height=40&lines=+%5B+%E2%96%B6+PLAY+%5D+turning+caffeine+into+segfaults...+;+%5B+%E2%96%B6+PLAY+%5D+90%25+ricing+hyprland%2C+10%25+debugging...+;+%5B+%E2%96%B6+PLAY+%5D+pushing+straight+to+main+at+3%3A00+AM...+;+%5B+%E2%96%B6+PLAY+%5D+if+it+breaks%2C+it+was+already+like+that...+" alt="Amber VHS Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=1000&color=FFB000&background=0E0B07&border=FFB00060&center=true&vCenter=true&multiline=false&width=620&height=42&lines=+%5B+%E2%96%B6+PLAY+%5D+turning+caffeine+into+segfaults...+;+%5B+%E2%96%B6+PLAY+%5D+90%25+ricing+hyprland%2C+10%25+writing+bugs...+;+%5B+%E2%96%B6+PLAY+%5D+pushing+straight+to+main+at+3%3A00+AM...+;+%5B+%E2%96%B6+PLAY+%5D+if+it+breaks%2C+it+was+already+like+that...+" alt="Amber VHS Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- RETRO AMBER HARDWARE BADGES -->
+<!-- RETRO HARDWARE BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/OS-ARCH%20%2F%20FEDORA-FFB000?style=for-the-badge&logo=linux&logoColor=0A0805&labelColor=14100A&color=FFB000" />
   <img src="https://img.shields.io/badge/WM-HYPRLAND-FFB000?style=for-the-badge&logo=wayland&logoColor=0A0805&labelColor=14100A&color=FFB000" />
@@ -24,14 +24,10 @@
 
 ---
 
-### 📺 HARDWARE & WEAPONS SPECIFICATION
+### 📺 HARDWARE & TELEMETRY MONITOR
 
 <div align="center">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,bash,ts,react,tailwind,linux,arch,neovim,git&perline=12&theme=dark" />
-</p>
-
+  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_status.svg" width="100%" alt="CRT Telemetry Monitor" />
 </div>
 
 ---
@@ -65,10 +61,10 @@
 
 ---
 
-### 📟 TELEMETRY & SYSTEM LOGS
+### 📟 SYSTEM LOGS & SERIAL DUMP
 
 ```text
-┌── [VRAM TELEMETRY // CH-03] ────────────────────────────────────────────────────────┐
+┌── [SERIAL TAPE // VRAM TELEMETRY // CH-03] ─────────────────────────────────────────┐
 │                                                                                     │
 │  [LOG 03:00:12]  Caffeine saturation: HAZARDOUS (99.8%)                            │
 │  [LOG 03:00:45]  Open Browser Tabs:   84 (Eating 12GB of DDR5)                      │
