@@ -12,16 +12,6 @@
 
 <br/><br/>
 
-<!-- COLOR-CODED SHIELDS BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/HYPRLAND-00F5D4?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=00F5D4" />
-  <img src="https://img.shields.io/badge/NEOVIM-A89FF9?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=A89FF9" />
-  <img src="https://img.shields.io/badge/STATUS-UNIDENTIFIED-FF3366?style=flat-square&labelColor=14100A&color=FF3366" />
-</p>
-
-<br/>
-
 <!-- 3. SAKURA PINK FLOWER TILE -->
 <img src="assets/crt_flower.svg" width="100%" alt="Sakura Blooming Flower" />
 
