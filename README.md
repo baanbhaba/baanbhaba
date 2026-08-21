@@ -36,23 +36,23 @@
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 📊 Real-Time GitHub Activity & Metrics
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=baanbhaba&show_icons=true&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D0814&title_color=FF007F&icon_color=00F5D4&text_color=E0E0E0" alt="Stats" width="410" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baanbhaba&theme=radical&hide_border=false&border_color=7928CA&background=0D0814&ring=FF007F&fire=FF007F&currStreakLabel=00F5D4&sideLabels=E0E0E0&dates=A0A0A0" alt="Streak" width="410" />
-    </td>
-  </tr>
-</table>
+<!-- GitHub Profile Summary Cards (Ultra-fast CDN, zero rate-limit issues) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baanbhaba&theme=radical" width="750" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baanbhaba&layout=compact&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D0814&title_color=00F5D4&text_color=E0E0E0" width="410" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baanbhaba&theme=radical" width="370" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baanbhaba&theme=radical" width="370" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-pin-card?username=baanbhaba&theme=radical" width="370" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baanbhaba&theme=radical&utcOffset=5.5" width="370" />
 </p>
 
 </div>
@@ -69,14 +69,6 @@
 | 󰒓 [**dotfiles**](https://github.com/baanbhaba/dotfiles) | Aesthetic Wayland workspace, modular multi-theme Hyprland environment | `Hyprland` `Waybar` `Zsh` `Lua` | ![Daily](https://img.shields.io/badge/Daily-Driver-00F5D4?style=flat-square&logoColor=black) |
 | 🧪 [**project-alchemi**](https://github.com/baanbhaba/project-alchemi) | Experimental sandbox for rapid prototyping and algorithm testing | `TypeScript` `Algorithms` | ![Active](https://img.shields.io/badge/WIP-Lab-7928CA?style=flat-square) |
 
-</div>
-
----
-
-<!-- Activity Snake Animation -->
-<div align="center">
-  <h3>🐍 Contribution Activity Graph</h3>
-  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.style.display='none'" />
 </div>
 
 <br/>
