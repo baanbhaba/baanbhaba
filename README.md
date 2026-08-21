@@ -14,12 +14,20 @@
 
 <!-- FLAT MONOCHROME AMBER BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/WM-HYPRLAND-FFB000?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-FFB000?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/HYPRLAND-FFB000?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/NEOVIM-FFB000?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=FFB000" />
   <img src="https://img.shields.io/badge/STATUS-UNIDENTIFIED-FF8800?style=flat-square&labelColor=14100A&color=FF8800" />
 </p>
 
+</div>
+
+---
+
+### 🐍 GREEN PHOSPHOR ARCADE // CRT-SNAKE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_game.svg" width="100%" alt="Green Phosphor CRT Snake Game" />
 </div>
 
 ---
