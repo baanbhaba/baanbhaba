@@ -36,23 +36,21 @@
 
 ---
 
-### 📊 Real-Time GitHub Activity & Metrics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<!-- GitHub Profile Summary Cards (Ultra-fast CDN, zero rate-limit issues) -->
+<!-- GitHub Stats via Anuraghazra with Direct CDN & custom token styling -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baanbhaba&theme=radical" width="750" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=baanbhaba&show_icons=true&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D0814&title_color=FF007F&icon_color=00F5D4&text_color=E0E0E0" alt="GitHub Stats" width="410" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=baanbhaba&layout=compact&theme=radical&hide_border=false&border_color=7928CA&bg_color=0D0814&title_color=00F5D4&text_color=E0E0E0" alt="Top Languages" width="410" />
 </p>
 
+<!-- Real-time dynamic activity badges -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baanbhaba&theme=radical" width="370" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baanbhaba&theme=radical" width="370" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-pin-card?username=baanbhaba&theme=radical" width="370" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baanbhaba&theme=radical&utcOffset=5.5" width="370" />
+  <img src="https://img.shields.io/github/followers/baanbhaba?label=Followers&logo=github&style=for-the-badge&color=7928CA&labelColor=0D0814" />
+  <img src="https://img.shields.io/github/stars/baanbhaba?label=Total%20Stars&logo=star&style=for-the-badge&color=FF007F&labelColor=0D0814" />
+  <img src="https://img.shields.io/github/repo-size/baanbhaba/bettea-note?label=bettea-note&logo=files&style=for-the-badge&color=00F5D4&labelColor=0D0814" />
 </p>
 
 </div>
