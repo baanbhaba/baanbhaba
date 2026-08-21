@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- FLAT RETRO AMBER TERMINAL HEADER -->
-<img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_header.svg" width="100%" alt="Retro Amber Terminal" />
+<!-- RETRO AMBER CRT HEADER -->
+<img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_header.svg" width="100%" alt="Retro Amber Terminal Header" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 <!-- FLAT MONOCHROME AMBER BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/HYPRLAND-FFB000?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=FFB000" />
-  <img src="https://img.shields.io/badge/NEOVIM-FFB000?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/OS-ARCH%20%2F%20FEDORA-FFB000?style=flat-square&logo=linux&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/WM-HYPRLAND-FFB000?style=flat-square&logo=wayland&logoColor=0A0806&labelColor=14100A&color=FFB000" />
+  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-FFB000?style=flat-square&logo=neovim&logoColor=0A0806&labelColor=14100A&color=FFB000" />
   <img src="https://img.shields.io/badge/STATUS-UNIDENTIFIED-FF8800?style=flat-square&labelColor=14100A&color=FF8800" />
 </p>
 
@@ -32,47 +32,24 @@
 
 ---
 
-### 📼 CREATIONS & REPOSITORIES
+### 📼 DIRECTORY & CREATIONS
 
 <div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                     │
-│  bettea-note       Encrypted thought journal with 13 hand-crafted palettes          │
-│  dotfiles          Minimalist Wayland / Hyprland desktop environment                │
-│  project-alchemi   Random experimental code sandbox                                 │
-│                                                                                     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
+  <a href="https://github.com/baanbhaba?tab=repositories">
+    <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_creations.svg" width="100%" alt="Creations Directory" />
+  </a>
 </div>
 
 ---
 
-### 🕹️ RANDOM DISTRACTIONS
+### 🕹️ PROCESS MONITOR & DISTRACTIONS
 
 <div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                     │
-│  Sim Racing        Driving fast digital cars directly into tyre barriers            │
-│  Shooters          Spending 30 mins choosing a crosshair, dying instantly           │
-│  Boss Fights       Looking at the respawn screen for 4 hours straight               │
-│  Linux Rice        Changing wallpaper every 12 minutes for no reason                │
-│                                                                                     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_distractions.svg" width="100%" alt="Process Monitor" />
 </div>
 
----
+<br/>
 
 <div align="center">
-
-```text
-▲▲▲ [SIGNAL LOST // NO FURTHER DATA AVAILABLE] ▲▲▲
-```
-
+  <img src="https://raw.githubusercontent.com/baanbhaba/baanbhaba/main/assets/crt_footer.svg" width="100%" alt="End of Transmission" />
 </div>
