@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 260" width="100%" height="100%">
+  <defs>
+    <filter id="crt-amber-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines-dense" width="100" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.2" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes blink-stamp { 0%, 100% { opacity: 0.9; } 50% { opacity: 0.3; } }
+    .amber { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #FFB000; filter: url(#crt-amber-glow); }
+    .amber-dim { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #8F5500; }
+    .amber-red { font-family: 'JetBrains Mono', 'Courier New', monospace; fill: #FF3344; filter: url(#crt-amber-glow); font-weight: 900; }
+    .stamp { animation: blink-stamp 1.8s infinite; }
+  </style>
+
+  <!-- Dossier Frame -->
+  <rect x="5" y="5" width="870" height="250" rx="16" fill="#0c0906" stroke="#2a1e12" stroke-width="2.5"/>
+  <rect x="15" y="15" width="850" height="230" rx="10" fill="#060402" stroke="#181109" stroke-width="1.5"/>
+
+  <!-- Top Classification Banner -->
+  <g font-size="11" letter-spacing="2">
+    <text x="35" y="42" class="amber-dim">FACILITY 09 // SECTOR 4</text>
+    <text x="320" y="42" class="amber-red">● EXPERIMENTAL SUBJECT DOSSIER</text>
+    <text x="680" y="42" class="amber-dim">CLEARANCE: LEVEL 5</text>
+    <line x1="35" y1="52" x2="845" y2="52" stroke="#2a1e12" stroke-width="1.5"/>
+  </g>
+
+  <!-- Left Column: Classified Subject Spec -->
+  <g class="amber" font-size="12">
+    <text x="35" y="85">SUBJECT SPECIES:</text>
+    <text x="180" y="85" fill="#FFF2D6">CARBON-BASED COMPILER ENTHUSIAST</text>
+
+    <text x="35" y="115">DIAGNOSED BEHAVIOR:</text>
+    <text x="180" y="115" fill="#FFF2D6">RE-WRITES WORKING APPS IN RUST AT 4 AM</text>
+
+    <text x="35" y="145">KNOWN WEAKNESSES:</text>
+    <text x="180" y="145" fill="#FFF2D6">OFF-BY-ONE ERRORS · UNROUNDED BORDERS</text>
+
+    <text x="35" y="175">ANOMALY INDEX:</text>
+    <text x="180" y="175" fill="#FF8800">LEVEL 9 (EXCESSIVE NEOVIM KEYBINDINGS)</text>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="560" y1="65" x2="560" y2="225" stroke="#2a1e12" stroke-width="1.5"/>
+
+  <!-- Right Column: Stamp & Bio Metric Container -->
+  <g transform="translate(585, 75)">
+    <!-- Stamp Box -->
+    <rect x="0" y="0" width="240" height="75" rx="8" fill="#140608" stroke="#FF3344" stroke-width="2" class="stamp"/>
+    <text x="18" y="32" class="amber-red" font-size="14" letter-spacing="2">CLASSIFIED</text>
+    <text x="18" y="55" fill="#FF8888" font-family="monospace" font-size="11">NOT SUITABLE FOR PRODUCTION</text>
+
+    <!-- Bio Frequency Radar -->
+    <text x="0" y="110" class="amber-dim" font-size="10">BRAINWAVE HARMONICS: [CHAOTIC]</text>
+    <rect x="0" y="120" width="240" height="12" rx="4" fill="#100804" stroke="#301808"/>
+    <rect x="2" y="122" width="210" height="8" rx="2" fill="#FFB000" filter="url(#crt-amber-glow)"/>
+  </g>
+
+  <!-- Scanlines Overlay -->
+  <rect x="15" y="15" width="850" height="230" rx="10" fill="url(#scanlines-dense)" pointer-events="none"/>
+</svg>
